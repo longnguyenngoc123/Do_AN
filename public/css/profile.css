@@ -1,0 +1,31 @@
+.profile{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    width: 400px;
+    height: 600px;background-color: #fff;
+}
+.profile .propic[src=""] {
+    display:none;
+  }
+.profile img 
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+    margin-top: 20px;
+}
+.profile .info
+{
+    margin:0 50px;
+    margin-top: 50px;
+}
+.profile .info i
+{
+    font-size: 25px;
+}
+.profile .info button
+{
+    margin-left: 100px;
+    margin-top: 20px;
+}
